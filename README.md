@@ -33,7 +33,8 @@ https://github.com/AB1908/CS-Books <br/>
 https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 
 # Find the best Videos
-https://github.com/Developer-Y/cs-video-courses
+https://github.com/Developer-Y/cs-video-courses <br/>
+https://github.com/explore
 
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
