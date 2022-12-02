@@ -12,6 +12,10 @@ I’ll try my best, to apply high standards of only allowing only the best links
 
 [Find the best Videos](#find-the-best-videos)
 
+[Be a Tech Lead](#be-a-tech-lead)
+
+[How to start a company](#how-to-start-a-company)
+
 # How to become an Efficient and High-Performance Software Engineer
 
 https://www.freecodecamp.org/news/how-to-become-a-better-developer/ <br/>
@@ -30,3 +34,9 @@ https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 
 # Find the best Videos
 https://github.com/Developer-Y/cs-video-courses
+
+# Be a Tech Lead
+https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
+
+# How to start a company
+https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company
