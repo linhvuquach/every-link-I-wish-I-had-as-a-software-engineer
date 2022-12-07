@@ -18,6 +18,8 @@ I’ll try my best, to apply high standards of only allowing only the best links
 
 [Find the best Videos](#find-the-best-videos)
 
+[Learn about Computer](#learn-about-computer)
+
 [Be a Tech Lead](#be-a-tech-lead)
 
 [How to start a company](#how-to-start-a-company)
@@ -55,6 +57,10 @@ https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 # Find the best Videos
 https://github.com/Developer-Y/cs-video-courses <br/>
 https://educationecosystem.com/projects
+
+# Learn about Computer
+## How does computer work
+https://www.youtube.com/watch?v=HB4I2CgkcCo
 
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
