@@ -58,7 +58,8 @@ https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 
 # Find the best Videos
 https://github.com/Developer-Y/cs-video-courses <br/>
-https://educationecosystem.com/projects
+https://educationecosystem.com/projects <br/>
+Course Harvard CS50 - Full computer Science: https://www.youtube.com/watch?v=8mAITcNt710
 
 # Learn about Computer
 ## How does computer work
