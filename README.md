@@ -22,6 +22,8 @@ I’ll try my best, to apply high standards of only allowing only the best links
 
 [Be a Tech Lead](#be-a-tech-lead)
 
+[How to get Remote job](#how-to-get-remote-job)
+
 [How to start a company](#how-to-start-a-company)
 
 # How to become an Efficient and High-Performance Software Engineer
@@ -64,6 +66,10 @@ https://www.youtube.com/watch?v=HB4I2CgkcCo
 
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
+
+# How to get Remote job
+https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs <br/>
+https://www.youtube.com/watch?v=TFIauKbM5K0
 
 # How to start a company
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company
