@@ -20,6 +20,8 @@ I’ll try my best, to apply high standards of only allowing only the best links
 
 [Learn about Computer](#learn-about-computer)
 
+[Code examples](#code-examples)
+
 [Be a Tech Lead](#be-a-tech-lead)
 
 [How to get Remote job](#how-to-get-remote-job)
@@ -64,6 +66,9 @@ Course Harvard CS50 - Full computer Science: https://www.youtube.com/watch?v=8mA
 # Learn about Computer
 ## How does computer work
 https://www.youtube.com/watch?v=HB4I2CgkcCo
+
+# Code examples
+- https://learn.microsoft.com/en-us/samples/browse/
 
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
