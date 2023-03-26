@@ -81,7 +81,6 @@ https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-le
 
 # How to get Remote job
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs <br/>
-https://www.youtube.com/watch?v=TFIauKbM5K0
 
 # How to start a company
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company
