@@ -30,6 +30,9 @@ I’ll try my best, to apply high standards of only allowing only the best links
 
 [How to start a company](#how-to-start-a-company)
 
+# Learn anything from awesome Youtuber
+https://github.com/JoseDeFreitas/awesome-youtubers
+
 # How to become an Efficient and High-Performance Software Engineer
 
 https://www.freecodecamp.org/news/how-to-become-a-better-developer/ <br/>
