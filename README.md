@@ -35,6 +35,7 @@ https://github.com/JoseDeFreitas/awesome-youtubers
 
 # How to become an Efficient and High-Performance Software Engineer
 
+https://pdfgate.net/9-habits-to-improve-productivity-pdf/
 https://www.freecodecamp.org/news/how-to-become-a-better-developer/ <br/>
 https://michaelscodingspot.com/11-tips-to-become-an-efficient-high-performance-software-developer/ <br/>
 https://www.quora.com/How-do-I-become-a-very-efficient-software-developer-What-skills-does-one-need-to-become-a-good-senior-software-engineer <br/>
@@ -43,6 +44,7 @@ https://medium.com/@mygreatlearning/8-tips-on-how-to-be-an-effective-software-en
 https://medium.com/geekculture/the-top-11-productivity-tips-for-software-engineers-5e58ddb5aaa <br/>
 https://levelup.gitconnected.com/8-smart-approach-to-become-an-effective-software-engineer-654762aa5a8a <br/>
 https://plan.io/blog/become-a-productive-software-engineer/
+
 
 # Address websites useful
 https://github.com/explore <br/>
