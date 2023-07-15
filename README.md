@@ -1,5 +1,5 @@
 # What is this?
-I have been a software engineer for about than 3 years, and this place as like a Dictionary helps in my work and allows me to always learn new things.
+I have been a software engineer for about more than 4 years, and this place as like a Dictionary helps in my work and allows me to always learn new things.
 
 In learning and development, I bookmarked, and read links, and articles. I thought these may be of use to others, so I trimmed links that weren’t top quality, and collated them hopefully to help people.
 
