@@ -6,35 +6,29 @@ In learning and development, I bookmarked, and read links, and articles. I thoug
 I’ll try my best, to apply high standards of only allowing only the best links to make it here, so feel free to add one you think I'm missing, replace a poor link with a better one or make a case for a link to be removed (if it no longer works, or is inaccurate, etc.)
 
 # Table of Contents  
-[How to become an Efficient and High-Performance Software Engineer](#how-to-become-an-efficient-and-high-performance-software-engineer)
+- [Learn anything from awesome Youtuber](#learn-anything-from-awesome-youtuber)
+- [How to become an Efficient and High-Performance Software Engineer](#how-to-become-an-efficient-and-high-performance-software-engineer)
+- [Address websites useful](#address-websites-useful)
+- [Developer Documentations](#developer-documentations)
+- [Get technology news](#get-technology-news)
+- [Find the best Books](#find-the-best-books)
+- [Find the best Videos](#find-the-best-videos)
+- [Learn about Computer](#learn-about-computer)
+  * [How does computer work](#how-does-computer-work)
+- [Code examples](#code-examples)
+- [Roadmap](#roadmap)
+    + [ASP NETCORE Developer Roadmap](#asp-netcore-developer-roadmap)
+- [Leetcode, HackerRank](#leetcode--hackerrank)
+- [Advice from master](#advice-from-master)
+- [Be a Tech Lead](#be-a-tech-lead)
+- [How to get Remote job](#how-to-get-remote-job)
+- [How to start a company](#how-to-start-a-company)
 
-[Address websites useful](#address-websites-useful)
-
-[Developer Documentations](#developer-documentations)
-
-[Get technology news](#get-technology-news)
-
-[Find the best Books](#find-the-best-books)
-
-[Find the best Videos](#find-the-best-videos)
-
-[Learn about Computer](#learn-about-computer)
-
-[Code examples](#code-examples)
-
-[Roadmap](#roadmap)
-
-[Be a Tech Lead](#be-a-tech-lead)
-
-[How to get Remote job](#how-to-get-remote-job)
-
-[How to start a company](#how-to-start-a-company)
 
 # Learn anything from awesome Youtuber
 https://github.com/JoseDeFreitas/awesome-youtubers
 
 # How to become an Efficient and High-Performance Software Engineer
-
 https://pdfgate.net/9-habits-to-improve-productivity-pdf/
 https://www.freecodecamp.org/news/how-to-become-a-better-developer/ <br/>
 https://michaelscodingspot.com/11-tips-to-become-an-efficient-high-performance-software-developer/ <br/>
@@ -82,6 +76,12 @@ Recommended learning resources for C# and .NET in 2023: https://www.linkedin.com
 
 ### ASP NETCORE Developer Roadmap
 https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+
+# Leetcode, HackerRank
+- https://www.piratekingdom.com/blog/how-to-effectively-prepare-for-leetcode
+
+# Advice from master
+- https://www.piratekingdom.com/blog/how-i-would-learn-to-code-if-i-could-start-over
 
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
