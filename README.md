@@ -19,6 +19,8 @@ I’ll try my best, to apply high standards of only allowing only the best links
 - [Roadmap](#roadmap)
     + [ASP NETCORE Developer Roadmap](#asp-netcore-developer-roadmap)
 - [Leetcode, HackerRank](#leetcode--hackerrank)
+- [.NET ecosystem](#net-ecosystem)
+    + [Clean Architecture](#clean-architecture)
 - [Advice from master](#advice-from-master)
 - [Be a Tech Lead](#be-a-tech-lead)
 - [How to get Remote job](#how-to-get-remote-job)
@@ -79,6 +81,14 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 # Leetcode, HackerRank
 - https://www.piratekingdom.com/blog/how-to-effectively-prepare-for-leetcode
+
+# .NET ecosystem
+### Clean Architecture
+- Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz:
+  -  https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D/?trackingId=OOAhmxZbTKm8paMsBCxXzw%3D%3D
+  -  https://github.com/edinSahbaz/clean-api-template
+
+- A demo on Clean Architecture with CQRS and Repository Pattern in .NET Web API: https://medium.com/@edin.sahbaz/a-demo-on-clean-architecture-with-cqrs-and-repository-pattern-in-net-web-api-986838191e74
 
 # Advice from master
 - https://www.piratekingdom.com/blog/how-i-would-learn-to-code-if-i-could-start-over
