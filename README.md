@@ -85,7 +85,7 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 # .NET ecosystem
 ### Tutorials
 - https://dotnettutorials.net/
-- 
+- https://code-maze.com/
 ### Clean Architecture
 - Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz:
   -  https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D/?trackingId=OOAhmxZbTKm8paMsBCxXzw%3D%3D
