@@ -86,6 +86,10 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 ### Tutorials
 - https://dotnettutorials.net/
 - https://code-maze.com/
+
+### Get better
+- Do you want to get better at .NET and software architecture? - Milan Jovanovic: https://www.linkedin.com/feed/update/urn:li:activity:7092022137720377344/
+
 ### Clean Architecture
 - Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz:
   -  https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D/?trackingId=OOAhmxZbTKm8paMsBCxXzw%3D%3D
