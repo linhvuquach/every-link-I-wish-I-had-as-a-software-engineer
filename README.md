@@ -97,6 +97,9 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 - A demo on Clean Architecture with CQRS and Repository Pattern in .NET Web API: https://medium.com/@edin.sahbaz/a-demo-on-clean-architecture-with-cqrs-and-repository-pattern-in-net-web-api-986838191e74
 
+# Productivity
+- [Liam - Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
+
 # Advice from master
 - https://www.piratekingdom.com/blog/how-i-would-learn-to-code-if-i-could-start-over
 
