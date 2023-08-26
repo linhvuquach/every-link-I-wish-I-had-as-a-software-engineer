@@ -21,6 +21,7 @@ I’ll try my best, to apply high standards of only allowing only the best links
 - [Leetcode, HackerRank](#leetcode--hackerrank)
 - [.NET ecosystem](#net-ecosystem)
     + [Clean Architecture](#clean-architecture)
+- [Interview](#interview)
 - [Advice from master](#advice-from-master)
 - [Be a Tech Lead](#be-a-tech-lead)
 - [How to get Remote job](#how-to-get-remote-job)
@@ -96,6 +97,12 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
   -  https://github.com/edinSahbaz/clean-api-template
 
 - A demo on Clean Architecture with CQRS and Repository Pattern in .NET Web API: https://medium.com/@edin.sahbaz/a-demo-on-clean-architecture-with-cqrs-and-repository-pattern-in-net-web-api-986838191e74
+
+# Interview
+- The coding interview study plan: https://www.techinterviewhandbook.org/coding-interview-study-plan/
+- Interview questions: https://www.fullstack.cafe/
+- .NET & C#:
+  - Quetions for C# Developers: https://shahedbd.medium.com/common-interview-questions-for-c-developers-11aaeffc04a5
 
 # Productivity
 - [Liam - Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
