@@ -41,6 +41,8 @@ https://medium.com/@mygreatlearning/8-tips-on-how-to-be-an-effective-software-en
 https://medium.com/geekculture/the-top-11-productivity-tips-for-software-engineers-5e58ddb5aaa <br/>
 https://levelup.gitconnected.com/8-smart-approach-to-become-an-effective-software-engineer-654762aa5a8a <br/>
 https://plan.io/blog/become-a-productive-software-engineer/
+## How to plan?
+- How to plan a coding project in 8 easy steps: https://learningdaily.dev/how-to-plan-a-coding-project-in-8-easy-steps-c184ae622301
 
 
 # Address websites useful
