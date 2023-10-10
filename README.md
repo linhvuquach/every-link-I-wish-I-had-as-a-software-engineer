@@ -8,6 +8,7 @@ I’ll try my best, to apply high standards of only allowing only the best links
 # Table of Contents  
 - [Learn anything from awesome Youtuber](#learn-anything-from-awesome-youtuber)
 - [How to become an Efficient and High-Performance Software Engineer](#how-to-become-an-efficient-and-high-performance-software-engineer)
+  * [How to plan?](#how-to-plan-)
 - [Address websites useful](#address-websites-useful)
 - [Developer Documentations](#developer-documentations)
 - [Get technology news](#get-technology-news)
@@ -19,14 +20,18 @@ I’ll try my best, to apply high standards of only allowing only the best links
 - [Roadmap](#roadmap)
     + [ASP NETCORE Developer Roadmap](#asp-netcore-developer-roadmap)
 - [Leetcode, HackerRank](#leetcode--hackerrank)
-- [.NET ecosystem](#net-ecosystem)
+- [Languages](#languages)
+  * [.NET ecosystem](#net-ecosystem)
+    + [Tutorials](#tutorials)
+  * [...](#)
+    + [Get better](#get-better)
     + [Clean Architecture](#clean-architecture)
 - [Interview](#interview)
+- [Productivity](#productivity)
 - [Advice from master](#advice-from-master)
 - [Be a Tech Lead](#be-a-tech-lead)
 - [How to get Remote job](#how-to-get-remote-job)
 - [How to start a company](#how-to-start-a-company)
-
 
 # Learn anything from awesome Youtuber
 https://github.com/JoseDeFreitas/awesome-youtubers
@@ -85,10 +90,13 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 # Leetcode, HackerRank
 - https://www.piratekingdom.com/blog/how-to-effectively-prepare-for-leetcode
 
-# .NET ecosystem
+# Languages
+## .NET ecosystem
 ### Tutorials
 - https://dotnettutorials.net/
 - https://code-maze.com/
+
+## ...
 
 ### Get better
 - Do you want to get better at .NET and software architecture? - Milan Jovanovic: https://www.linkedin.com/feed/update/urn:li:activity:7092022137720377344/
