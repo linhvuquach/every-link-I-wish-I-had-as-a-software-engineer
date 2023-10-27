@@ -82,6 +82,9 @@ https://www.youtube.com/watch?v=HB4I2CgkcCo
 - https://learn.microsoft.com/en-us/samples/browse/
 
 # Roadmap
+- Technology Radar: https://www.thoughtworks.com/radar
+- Developer roadmaps: https://roadmap.sh/
+
 Recommended learning resources for C# and .NET in 2023: https://www.linkedin.com/feed/update/urn:li:activity:7082627787286609920/ 
 
 ### ASP NETCORE Developer Roadmap
