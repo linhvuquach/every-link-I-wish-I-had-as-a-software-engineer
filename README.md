@@ -57,6 +57,7 @@ https://medium.com/ <br/>
 https://www.reddit.com/search/?q=software%20engineer&type=link <br/>
 https://dev.to/ <br/>
 https://hashnode.com/
+- Free fake API for testing and prototyping: https://jsonplaceholder.typicode.com/
 
 # Developer Documentations
 https://devdocs.io/
