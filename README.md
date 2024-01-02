@@ -112,6 +112,9 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 - A demo on Clean Architecture with CQRS and Repository Pattern in .NET Web API: https://medium.com/@edin.sahbaz/a-demo-on-clean-architecture-with-cqrs-and-repository-pattern-in-net-web-api-986838191e74
 
+# Software Architecture
+- https://awesome-architecture.com/
+
 # Interview
 - The coding interview study plan: https://www.techinterviewhandbook.org/coding-interview-study-plan/
 - Interview questions: https://www.fullstack.cafe/
