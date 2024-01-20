@@ -126,6 +126,7 @@ https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
 
 # Advice from master
 - https://www.piratekingdom.com/blog/how-i-would-learn-to-code-if-i-could-start-over
+- Decdicated story I took five days to through all of it: https://medium.com/dev-publicity/advice-to-my-younger-self-and-you-after-20-years-in-programming-a3a2ccc7a942
 
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
