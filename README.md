@@ -1,9 +1,16 @@
-# What is this?
+# About
 I have been a software engineer, and this place as like a Dictionary helps in my work and allows me to always learn new things.
 
 In learning and development, I bookmarked, and read links, and articles. I thought these may be of use to others, so I trimmed links that weren’t top quality, and collated them hopefully to help people.
 
 I’ll try my best, to apply high standards of only allowing only the best links to make it here, so feel free to add one you think I'm missing, replace a poor link with a better one or make a case for a link to be removed (if it no longer works, or is inaccurate, etc.)
+
+# Contributing
+If you're interested in contributing, you can create directly your PR on this repo. Your contributions, be they fix, add new links, or valuable insights, are highly appreciated.
+
+Thank you for joining me on this exciting journey of learning and improving.
+
+Happy learning!
 
 # Table of Contents  
 - [How to become an Efficient and High-Performance Software Engineer](#how-to-become-an-efficient-and-high-performance-software-engineer)
