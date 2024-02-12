@@ -5,6 +5,9 @@ In learning and development, I bookmarked, and read links, and articles. I thoug
 
 I’ll try my best, to apply high standards of only allowing only the best links to make it here, so feel free to add one you think I'm missing, replace a poor link with a better one or make a case for a link to be removed (if it no longer works, or is inaccurate, etc.)
 
+# Give a Star! ⭐
+If you enjoy or are using this project to learn or begin your solution, please give it a star. Thanks!
+
 # Contributing
 If you're interested in contributing, you can create directly your PR on this repo. Your contributions, be they fix, add new links, or valuable insights, are highly appreciated.
 
