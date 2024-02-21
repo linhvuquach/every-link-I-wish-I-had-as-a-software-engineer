@@ -28,6 +28,7 @@ Happy learning!
 - [Interview](#interview)
 - [Software Architecture](#software-architecture)
   * [Clean Architecture](#clean-architecture)
+- [Team Work](#team-work)
 - [Resources accelerate your life](#resources-accelerate-your-life)
 - [Find the best Books](#find-the-best-books)
 - [Advice from master](#advice-from-master)
@@ -103,6 +104,8 @@ Happy learning!
 - Boilerplate:
   - https://github.com/edinSahbaz/clean-api-template
 
+# Team Work
+- [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
 
 # Resources accelerate your life
 - **Blow your mind** with these addresses below:
