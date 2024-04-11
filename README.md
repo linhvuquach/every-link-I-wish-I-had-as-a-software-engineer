@@ -99,10 +99,10 @@ Happy learning!
 # Software Architecture
 - Best resource to clearn Architecture: https://awesome-architecture.com/
 
-## Clean Architecture
-- Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz: https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D
-- Boilerplate:
-  - https://github.com/edinSahbaz/clean-api-template
+- Clean Architecture
+  - Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz: https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D
+  - Boilerplate:
+    - https://github.com/edinSahbaz/clean-api-template
 
 # Team Work
 - [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
