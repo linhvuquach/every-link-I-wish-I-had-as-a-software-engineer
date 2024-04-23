@@ -23,7 +23,7 @@ Happy learning!
 - [Data Structure and Algorithm](#data-structure-and-algorithm)
 - [Programming Languages](#programming-languages)
   * [.NET technology](#net-technology)
-- [Developer Documentations](#developer-documentations)
+- [Developer Documentations](#engineering-playbooks)
 - [Code examples](#code-examples)
 - [Interview](#interview)
 - [Software Architecture](#software-architecture)
@@ -81,8 +81,9 @@ Happy learning!
   - https://code-maze.com/
 
 
-# Developer Documentations
+# Engineering Playbooks
 - https://devdocs.io/
+- https://microsoft.github.io/code-with-engineering-playbook/
 
 
 # Code examples
