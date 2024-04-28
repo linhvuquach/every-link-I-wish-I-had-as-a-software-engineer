@@ -92,6 +92,7 @@ Happy learning!
 
 # Interview
 - The coding interview study plan: https://www.techinterviewhandbook.org/coding-interview-study-plan/
+- https://github.com/jwasham/coding-interview-university
 - Interview questions: https://www.fullstack.cafe/
 - .NET technology
   - Quetions for C# Developers: https://shahedbd.medium.com/common-interview-questions-for-c-developers-11aaeffc04a5
@@ -122,7 +123,8 @@ Happy learning!
 
 
 # Find the best Books
-- https://github.com/learn-anything/books 
+- https://github.com/learn-anything/books
+- https://github.com/EbookFoundation/free-programming-books
 - https://github.com/AB1908/CS-Books 
 - https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
 
