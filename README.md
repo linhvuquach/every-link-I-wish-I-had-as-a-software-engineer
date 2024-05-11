@@ -24,6 +24,7 @@ Happy learning!
 - [Programming Languages](#programming-languages)
   * [.NET technology](#net-technology)
 - [Engineering Playbooks](#engineering-playbooks)
+- [Engineering Blogs](#engineering-blogs)
 - [Code examples](#code-examples)
 - [Interview](#interview)
 - [Software Architecture](#software-architecture)
@@ -85,6 +86,8 @@ Happy learning!
 - https://devdocs.io/
 - https://microsoft.github.io/code-with-engineering-playbook/
 
+# Engineering Blogs
+- https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
 
 # Code examples
 - Microsoft technology samples: https://learn.microsoft.com/en-us/samples/browse/
