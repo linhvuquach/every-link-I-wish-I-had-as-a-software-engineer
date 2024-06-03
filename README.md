@@ -50,6 +50,7 @@ Happy learning!
 - https://plan.io/blog/become-a-productive-software-engineer/
 - How to plan a coding project in 8 easy steps: https://learningdaily.dev/how-to-plan-a-coding-project-in-8-easy-steps-c184ae622301
 - [Liam - Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
+- https://medium.com/swlh/one-focus-why-doing-less-will-make-you-more-productive-3213378f224c
 
 
 # Roadmap
