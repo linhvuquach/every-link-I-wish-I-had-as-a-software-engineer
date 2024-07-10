@@ -52,6 +52,7 @@ Happy learning!
 - [Liam - Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
 - [Why doing less is more](https://medium.com/swlh/one-focus-why-doing-less-will-make-you-more-productive-3213378f224c)
 - [Productivity habits make you more productive](https://medium.com/illumination/these-3-productivity-habits-make-you-more-effective-than-95-of-people-ae742637d501)
+- [How to focus on work that matters](https://medium.com/swlh/how-to-focus-on-work-that-matters-20c2370a3897)
 
 
 # Roadmap
