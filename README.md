@@ -29,7 +29,8 @@ Happy learning!
 - [Interview](#interview)
 - [Software Architecture](#software-architecture)
   * [Clean Architecture](#clean-architecture)
-- [Team Work](#team-work)
+- [Soft Skills](#soft-skills)
+  * [Team Work](#team-work)
 - [Resources accelerate your life](#resources-accelerate-your-life)
 - [Find the best Books](#find-the-best-books)
 - [Advice from master](#advice-from-master)
@@ -112,8 +113,12 @@ Happy learning!
   - Boilerplate:
     - https://github.com/edinSahbaz/clean-api-template
 
-# Team Work
+# Soft Skills
+## Team Work
 - [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
+
+## Balance
+- [How to Avoid Burnout as a Software Developer](https://medium.com/@vietjs/how-to-avoid-burnout-as-a-software-developer-c929a550a0b7)
 
 # Resources accelerate your life
 - **Blow your mind** with these addresses below:
