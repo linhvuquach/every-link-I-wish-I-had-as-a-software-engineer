@@ -113,6 +113,9 @@ Happy learning!
   - Boilerplate:
     - https://github.com/edinSahbaz/clean-api-template
 
+# Ship code
+- [Everything I Know About Shipping Code Faster - Ryan Peterman](https://www.developing.dev/p/everything-i-know-about-shipping)
+
 # Soft Skills
 ## Team Work
 - [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
