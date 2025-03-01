@@ -93,10 +93,6 @@ Happy learning!
 # Engineering Blogs
 - https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
 
-# Code examples
-- Microsoft technology samples: https://learn.microsoft.com/en-us/samples/browse/
-
-
 # Interview
 - The coding interview study plan: https://www.techinterviewhandbook.org/coding-interview-study-plan/
 - https://github.com/jwasham/coding-interview-university
@@ -104,6 +100,8 @@ Happy learning!
 - .NET technology
   - Quetions for C# Developers: https://shahedbd.medium.com/common-interview-questions-for-c-developers-11aaeffc04a5
 
+# Build
+- Build your own X: https://github.com/codecrafters-io/build-your-own-x
 
 # Software Architecture
 - Best resource to clearn Architecture: https://awesome-architecture.com/
@@ -112,6 +110,10 @@ Happy learning!
   - Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz: https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D
   - Boilerplate:
     - https://github.com/edinSahbaz/clean-api-template
+
+# Code examples
+- Microsoft technology samples: https://learn.microsoft.com/en-us/samples/browse/
+
 
 # Ship code
 - [Everything I Know About Shipping Code Faster - Ryan Peterman](https://www.developing.dev/p/everything-i-know-about-shipping)
