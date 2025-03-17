@@ -49,7 +49,7 @@ Happy learning!
 - https://medium.com/geekculture/the-top-11-productivity-tips-for-software-engineers-5e58ddb5aaa 
 - https://levelup.gitconnected.com/8-smart-approach-to-become-an-effective-software-engineer-654762aa5a8a 
 - https://plan.io/blog/become-a-productive-software-engineer/
-- How to plan a coding project in 8 easy steps: https://learningdaily.dev/how-to-plan-a-coding-project-in-8-easy-steps-c184ae622301
+- [How to plan a coding project in 8 easy steps](https://learningdaily.dev/how-to-plan-a-coding-project-in-8-easy-steps-c184ae622301)
 - [Liam - Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
 - [Why doing less is more](https://medium.com/swlh/one-focus-why-doing-less-will-make-you-more-productive-3213378f224c)
 - [Productivity habits make you more productive](https://medium.com/illumination/these-3-productivity-habits-make-you-more-effective-than-95-of-people-ae742637d501)
