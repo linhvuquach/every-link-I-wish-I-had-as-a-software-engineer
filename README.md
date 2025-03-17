@@ -122,6 +122,9 @@ Happy learning!
 ## Team Work
 - [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
 
+## Productivity
+- [How To Be Productive As A Software Engineer](https://4markdown.com/how-to-be-productive-as-a-software-engineer/?ref=dailydev)
+
 ## Worklife Balance
 - [How to Avoid Burnout as a Software Developer](https://medium.com/@vietjs/how-to-avoid-burnout-as-a-software-developer-c929a550a0b7)
 - [What Every Developer Needs to Know About Burnout — Before It’s Too Late](https://levelup.gitconnected.com/what-every-developer-needs-to-know-about-burnout-before-its-too-late-f582aa374d5e)
