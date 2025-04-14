@@ -54,6 +54,7 @@ Happy learning!
 - [Why doing less is more](https://medium.com/swlh/one-focus-why-doing-less-will-make-you-more-productive-3213378f224c)
 - [Productivity habits make you more productive](https://medium.com/illumination/these-3-productivity-habits-make-you-more-effective-than-95-of-people-ae742637d501)
 - [How to focus on work that matters](https://medium.com/swlh/how-to-focus-on-work-that-matters-20c2370a3897)
+- [How To Be Productive As A Software Engineer - 4Markdown](https://4markdown.com/how-to-be-productive-as-a-software-engineer/?ref=dailydev)
 
 
 # Roadmap
