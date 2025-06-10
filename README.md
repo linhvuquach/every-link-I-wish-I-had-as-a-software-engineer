@@ -101,10 +101,13 @@ Happy learning!
 - .NET technology
   - Quetions for C# Developers: https://shahedbd.medium.com/common-interview-questions-for-c-developers-11aaeffc04a5
 
+# Development
+- [From "Vibe Coding" to professional](https://phucnt.substack.com/p/ai-coding-tu-vibe-coding-en-chuyen)
+
 # Dev Helpers
 - Visual Guides: [ByteByteGo Guides](https://bytebytego.com/guides/)
 
-# Build
+# Build your own
 - Build your own X: https://github.com/codecrafters-io/build-your-own-x
 
 # Software Architecture
@@ -163,10 +166,8 @@ Happy learning!
 # Be a Tech Lead
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
 
-
 # How to get Remote job
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs 
-
 
 # How to start a company
 https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company
