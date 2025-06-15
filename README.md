@@ -103,6 +103,8 @@ Happy learning!
 
 # Development
 - [From "Vibe Coding" to professional](https://phucnt.substack.com/p/ai-coding-tu-vibe-coding-en-chuyen)
+- [Use Coding Agent effectively with the thinking of Product Owner and Scrum Master](https://phucnt.substack.com/p/su-dung-coding-agent-hieu-qua-voi)
+- [Optimize writing Requirement with: From vague to details](https://phucnt.substack.com/p/toi-uu-viec-viet-requirement-voi)
 
 # Dev Helpers
 - Visual Guides: [ByteByteGo Guides](https://bytebytego.com/guides/)
