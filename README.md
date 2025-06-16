@@ -40,6 +40,7 @@ Happy learning!
 
 
 # How to become an Efficient and High-Performance Software Engineer
+- [15 Productivity Hacks Every Engineer & Manager Should Know](https://newsletter.eng-leadership.com/p/15-productivity-hacks-every-engineer)
 - https://pdfgate.net/9-habits-to-improve-productivity-pdf/
 - https://www.freecodecamp.org/news/how-to-become-a-better-developer/ 
 - https://michaelscodingspot.com/11-tips-to-become-an-efficient-high-performance-software-developer/ 
