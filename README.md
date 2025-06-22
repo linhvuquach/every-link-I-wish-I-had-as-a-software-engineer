@@ -1,176 +1,242 @@
-# About
-I have been a software engineer, and this place as like a Dictionary helps in my work and allows me to always learn new things.
+# Every Link I Wish I Had as a Software Engineer
 
-In learning and development, I bookmarked, and read links, and articles. I thought these may be of use to others, so I trimmed links that weren’t top quality, and collated them hopefully to help people.
+> A curated collection of high-quality resources to accelerate your software engineering journey
 
-I’ll try my best, to apply high standards of only allowing only the best links to make it here, so feel free to add one you think I'm missing, replace a poor link with a better one or make a case for a link to be removed (if it no longer works, or is inaccurate, etc.)
+## 📖 About
 
-# Give a Star! ⭐
-If you enjoy or are using this project to learn or begin your solution, please give it a star. Thanks!
+This repository serves as a comprehensive knowledge base for software engineers at all levels. I've curated the best links, articles, and resources that have helped me grow as a developer, focusing only on top-quality content that provides real value.
 
-# Contributing
-If you're interested in contributing, you can create directly your PR on this repo. Your contributions, be they fix, add new links, or valuable insights, are highly appreciated.
+### 🎯 Mission
 
-Thank you for joining me on this exciting journey of learning and improving.
+- Provide a structured learning path from fundamentals to advanced topics
+- Curate only the highest quality resources
+- Help engineers avoid information overload by filtering the best content
+- Create a living document that evolves with the industry
 
-Happy learning!
+### 🤝 Contributing
 
-# Table of Contents  
-- [How to become an Efficient and High-Performance Software Engineer](#how-to-become-an-efficient-and-high-performance-software-engineer)
-- [Roadmap](#roadmap)
-- [Learn anything from awesome Youtuber](#learn-anything-from-awesome-youtuber)
-- [Learn about Computer](#learn-about-computer)
-- [Data Structure and Algorithm](#data-structure-and-algorithm)
+We welcome contributions! Feel free to:
+
+- Add missing high-quality resources
+- Replace outdated or poor links with better alternatives
+- Suggest removals for broken or inaccurate content
+- Improve the structure and organization
+
+**Give this repo a ⭐ if it helps you in your learning journey!**
+
+---
+
+## 📋 Table of Contents
+
+### 🚀 Getting Started
+
+- [Learning Paths & Roadmaps](#learning-paths--roadmaps)
+- [Computer Science Fundamentals](#computer-science-fundamentals)
 - [Programming Languages](#programming-languages)
-  * [.NET technology](#net-technology)
-- [Engineering Playbooks](#engineering-playbooks)
-- [Engineering Blogs](#engineering-blogs)
-- [Code examples](#code-examples)
-- [Interview](#interview)
+
+### 💻 Core Development Skills
+
+- [Data Structures & Algorithms](#data-structures--algorithms)
 - [Software Architecture](#software-architecture)
-  * [Clean Architecture](#clean-architecture)
-- [Soft Skills](#soft-skills)
-  * [Team Work](#team-work)
-- [Resources accelerate your life](#resources-accelerate-your-life)
-- [Find the best Books](#find-the-best-books)
-- [Advice from master](#advice-from-master)
-- [Be a Tech Lead](#be-a-tech-lead)
-- [How to get Remote job](#how-to-get-remote-job)
-- [How to start a company](#how-to-start-a-company)
+- [Code Quality & Best Practices](#code-quality--best-practices)
+- [Development Tools & Workflows](#development-tools--workflows)
 
+### 🏗️ Advanced Topics
 
-# How to become an Efficient and High-Performance Software Engineer
-- [15 Productivity Hacks Every Engineer & Manager Should Know](https://newsletter.eng-leadership.com/p/15-productivity-hacks-every-engineer)
-- https://pdfgate.net/9-habits-to-improve-productivity-pdf/
-- https://www.freecodecamp.org/news/how-to-become-a-better-developer/ 
-- https://michaelscodingspot.com/11-tips-to-become-an-efficient-high-performance-software-developer/ 
-- https://www.quora.com/How-do-I-become-a-very-efficient-software-developer-What-skills-does-one-need-to-become-a-good-senior-software-engineer 
-- https://www.freecodecamp.org/news/how-to-become-a-great-software-developer/ 
-- https://medium.com/@mygreatlearning/8-tips-on-how-to-be-an-effective-software-engineer-f314e0ed4fd3 
-- https://medium.com/geekculture/the-top-11-productivity-tips-for-software-engineers-5e58ddb5aaa 
-- https://levelup.gitconnected.com/8-smart-approach-to-become-an-effective-software-engineer-654762aa5a8a 
-- https://plan.io/blog/become-a-productive-software-engineer/
-- [How to plan a coding project in 8 easy steps](https://learningdaily.dev/how-to-plan-a-coding-project-in-8-easy-steps-c184ae622301)
-- [Liam - Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
-- [Why doing less is more](https://medium.com/swlh/one-focus-why-doing-less-will-make-you-more-productive-3213378f224c)
-- [Productivity habits make you more productive](https://medium.com/illumination/these-3-productivity-habits-make-you-more-effective-than-95-of-people-ae742637d501)
-- [How to focus on work that matters](https://medium.com/swlh/how-to-focus-on-work-that-matters-20c2370a3897)
-- [How To Be Productive As A Software Engineer - 4Markdown](https://4markdown.com/how-to-be-productive-as-a-software-engineer/?ref=dailydev)
+- [System Design](#system-design)
+- [Performance & Optimization](#performance--optimization)
+- [Security](#security)
+- [DevOps & Infrastructure](#devops--infrastructure)
 
+### 🎯 Career Development
 
-# Roadmap
-- Technology Radar: https://www.thoughtworks.com/radar
-- Developer roadmaps: https://roadmap.sh/
-- .NET technology:
-  - .NET develper roadmap 2024: https://github.com/milanm/DotNet-Developer-Roadmap
-  - Recommended learning resources for C# and .NET in 2023: https://www.linkedin.com/feed/update/urn:li:activity:7082627787286609920/ 
-  - AspNetCore Developer Roadmap: https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+- [Interview Preparation](#interview-preparation)
+- [Productivity & Efficiency](#productivity--efficiency)
+- [Soft Skills & Leadership](#soft-skills--leadership)
+- [Career Growth](#career-growth)
 
-# Learn anything from awesome Youtuber
-- https://github.com/JoseDeFreitas/awesome-youtubers
-- https://github.com/Developer-Y/cs-video-courses 
-- https://educationecosystem.com/projects 
-- Course Harvard CS50 - Full computer Science: https://www.youtube.com/watch?v=8mAITcNt710
+### 📚 Learning Resources
 
+- [Books & Reading](#books--reading)
+- [Video Courses & YouTube](#video-courses--youtube)
+- [Blogs & News](#blogs--news)
+- [Practice & Projects](#practice--projects)
 
-# Learn about Computer
-- How does computer work: https://www.youtube.com/watch?v=HB4I2CgkcCo
+---
 
+## 🚀 Getting Started
 
-# Data Structure and Algorithm
-- https://www.piratekingdom.com/blog/how-to-effectively-prepare-for-leetcode
+### Learning Paths & Roadmaps
 
+- **[Developer Roadmaps](https://roadmap.sh/)** - Interactive roadmaps for various tech stacks
+- **[ThoughtWorks Technology Radar](https://www.thoughtworks.com/radar)** - Technology trends and recommendations
+- **[.NET Developer Roadmap 2024](https://github.com/milanm/DotNet-Developer-Roadmap)** - Comprehensive .NET learning path
+- **[ASP.NET Core Developer Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap)** - Specialized .NET Core path
 
-# Programming Languages
-## .NET technology
-- Tutorials:
-  - https://dotnettutorials.net/
-  - https://code-maze.com/
+### Computer Science Fundamentals
 
+- **[How Computers Work](https://www.youtube.com/watch?v=HB4I2CgkcCo)** - Understanding computer fundamentals
+- **[Harvard CS50](https://www.youtube.com/watch?v=8mAITcNt710)** - Complete Computer Science course
 
-# Engineering Playbooks
-- https://devdocs.io/
-- https://microsoft.github.io/code-with-engineering-playbook/
+### Programming Languages
 
-# Engineering Blogs
-- https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up
+#### .NET Technology
 
-# Interview
-- The coding interview study plan: https://www.techinterviewhandbook.org/coding-interview-study-plan/
-- https://github.com/jwasham/coding-interview-university
-- Interview questions: https://www.fullstack.cafe/
-- .NET technology
-  - Quetions for C# Developers: https://shahedbd.medium.com/common-interview-questions-for-c-developers-11aaeffc04a5
+- **[.NET Tutorials](https://dotnettutorials.net/)** - Comprehensive .NET learning resources
+- **[Code Maze](https://code-maze.com/)** - Advanced .NET tutorials and guides
+- **[Microsoft Samples](https://learn.microsoft.com/en-us/samples/browse/)** - Official code examples
 
-# Development
-- [From "Vibe Coding" to professional](https://phucnt.substack.com/p/ai-coding-tu-vibe-coding-en-chuyen)
-- [Use Coding Agent effectively with the thinking of Product Owner and Scrum Master](https://phucnt.substack.com/p/su-dung-coding-agent-hieu-qua-voi)
-- [Optimize writing Requirement with: From vague to details](https://phucnt.substack.com/p/toi-uu-viec-viet-requirement-voi)
+---
 
-# Dev Helpers
-- Visual Guides: [ByteByteGo Guides](https://bytebytego.com/guides/)
+## 💻 Core Development Skills
 
-# Build your own
-- Build your own X: https://github.com/codecrafters-io/build-your-own-x
+### Data Structures & Algorithms
 
-# Software Architecture
-- Best resource to clearn Architecture: https://awesome-architecture.com/
+- **[LeetCode Preparation Guide](https://www.piratekingdom.com/blog/how-to-effectively-prepare-for-leetcode)** - Effective study strategies
+- **[Coding Interview University](https://github.com/jwasham/coding-interview-university)** - Complete study plan
 
-- Clean Architecture
-  - Getting Started with Clearn Architecture in .NET cor ewith Edin Šahbaz: https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D
-  - Boilerplate:
-    - https://github.com/edinSahbaz/clean-api-template
+### Software Architecture
 
-# Code examples
-- Microsoft technology samples: https://learn.microsoft.com/en-us/samples/browse/
+- **[Awesome Architecture](https://awesome-architecture.com/)** - Best architecture resources
+- **[Microsoft Engineering Playbook](https://microsoft.github.io/code-with-engineering-playbook/)** - Industry best practices
+- **[Getting Started with Clean Architecture in .NET](https://www.linkedin.com/pulse/getting-started-clean-architecture-net-core-edin-%2525C5%2525A1ahbaz%3FtrackingId=OOAhmxZbTKm8paMsBCxXzw%253D%253D)** - Practical implementation guide
+- **[Clean API Template](https://github.com/edinSahbaz/clean-api-template)** - Boilerplate for clean architecture
 
+### Code Quality & Best Practices
 
-# Ship code
-- [Everything I Know About Shipping Code Faster - Ryan Peterman](https://www.developing.dev/p/everything-i-know-about-shipping)
+- **[DevDocs](https://devdocs.io/)** - Fast, offline documentation
+- **[Engineering Blogs Collection](https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up)** - 79 top engineering blogs
 
-# Soft Skills
-## Team Work
-- [The importance of forming opinions in the engineering industry](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)
+### Development Tools & Workflows
 
-## Productivity
-- [How To Be Productive As A Software Engineer](https://4markdown.com/how-to-be-productive-as-a-software-engineer/?ref=dailydev)
+- **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** - Learn by building popular tools
+- **[Visual Guides by ByteByteGo](https://bytebytego.com/guides/)** - Visual explanations of complex concepts
 
-## Worklife Balance
-- [How to Avoid Burnout as a Software Developer](https://medium.com/@vietjs/how-to-avoid-burnout-as-a-software-developer-c929a550a0b7)
-- [What Every Developer Needs to Know About Burnout — Before It’s Too Late](https://levelup.gitconnected.com/what-every-developer-needs-to-know-about-burnout-before-its-too-late-f582aa374d5e)
+---
 
-# Resources accelerate your life
-- **Blow your mind** with these addresses below:
-  - https://github.com/explore 
-  - https://stackoverflow.com/ 
-  - https://medium.com/ 
-  - https://www.reddit.com/search/?q=software%20engineer&type=link 
-  - https://dev.to/ 
-  - https://hashnode.com/
+## 🏗️ Advanced Topics
 
-- **Technology news** to help you update every day:
-  - https://news.ycombinator.com/
+### System Design
 
+- **[ByteByteGo System Design](https://blog.bytebytego.com/)** - System design concepts and patterns
 
-# Find the best Books
-- https://github.com/learn-anything/books
-- https://github.com/EbookFoundation/free-programming-books
-- https://github.com/AB1908/CS-Books 
-- https://www.java67.com/2018/01/10-must-read-books-for-coders-of-all-level.html
+### Performance & Optimization
 
+- **[Shipping Code Faster](https://www.developing.dev/p/everything-i-know-about-shipping)** - Ryan Peterman's insights on rapid development
 
-# Advice from master
-- https://www.piratekingdom.com/blog/how-i-would-learn-to-code-if-i-could-start-over
-- Decdicated story I took five days to through all of it: https://medium.com/dev-publicity/advice-to-my-younger-self-and-you-after-20-years-in-programming-a3a2ccc7a942
+### Development Practices
 
-# Personal brand
-- https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po
+- **[From "Vibe Coding" to Professional](https://phucnt.substack.com/p/ai-coding-tu-vibe-coding-en-chuyen)** - Professional development practices
+- **[Effective Coding Agent Usage](https://phucnt.substack.com/p/su-dung-coding-agent-hieu-qua-voi)** - AI-assisted development
+- **[Requirement Writing Optimization](https://phucnt.substack.com/p/toi-uu-viec-viet-requirement-voi)** - Better requirement documentation
 
-# Be a Tech Lead
-https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead
+---
 
-# How to get Remote job
-https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs 
+## 🎯 Career Development
 
-# How to start a company
-https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company
+### Interview Preparation
+
+- **[Tech Interview Handbook](https://www.techinterviewhandbook.org/coding-interview-study-plan/)** - Structured interview preparation
+- **[FullStack Cafe](https://www.fullstack.cafe/)** - Interview questions by technology
+- **[C# Developer Interview Questions](https://shahedbd.medium.com/common-interview-questions-for-c-developers-11aaeffc04a5)** - .NET-specific questions
+
+### Productivity & Efficiency
+
+- **[15 Productivity Hacks for Engineers](https://newsletter.eng-leadership.com/p/15-productivity-hacks-every-engineer)** - Proven productivity techniques
+- **[11 Tips for High-Performance Development](https://michaelscodingspot.com/11-tips-to-become-an-efficient-high-performance-software-developer/)** - Performance optimization
+- **[How to Plan Coding Projects](https://learningdaily.dev/how-to-plan-a-coding-project-in-8-easy-steps-c184ae622301)** - Project planning methodology
+- **[Productivity Habits for Engineers](https://4markdown.com/how-to-be-productive-as-a-software-engineer/?ref=dailydev)** - Daily productivity practices
+- **[12-Hour Focus Techniques](https://www.youtube.com/watch?v=y1oFxKxAmWE)** - Liam's productivity system
+- **[Why Doing Less is More](https://medium.com/swlh/one-focus-why-doing-less-will-make-you-more-productive-3213378f224c)** - Focus optimization
+- **[Focus on Work That Matters](https://medium.com/swlh/how-to-focus-on-work-that-matters-20c2370a3897)** - Priority management
+- **[9 Habits to Improve Productivity](https://pdfgate.net/9-habits-to-improve-productivity-pdf/)** - Productivity framework
+- **[How to Become a Better Developer](https://www.freecodecamp.org/news/how-to-become-a-better-developer/)** - Continuous improvement
+- **[How to Become a Great Software Developer](https://www.freecodecamp.org/news/how-to-become-a-great-software-developer/)** - Excellence in development
+- **[8 Tips for Effective Software Engineering](https://medium.com/@mygreatlearning/8-tips-on-how-to-be-an-effective-software-engineer-f314e0ed4fd3)** - Effectiveness strategies
+- **[Top 11 Productivity Tips](https://medium.com/geekculture/the-top-11-productivity-tips-for-software-engineers-5e58ddb5aaa)** - Productivity optimization
+- **[Smart Approaches to Effective Engineering](https://levelup.gitconnected.com/8-smart-approach-to-become-an-effective-software-engineer-654762aa5a8a)** - Smart development practices
+- **[Become a Productive Software Engineer](https://plan.io/blog/become-a-productive-software-engineer/)** - Productivity guide
+
+### Soft Skills & Leadership
+
+- **[Forming Opinions in Engineering](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)** - Critical thinking in tech
+- **[Avoiding Developer Burnout](https://medium.com/@vietjs/how-to-avoid-burnout-as-a-software-developer-c929a550a0b7)** - Mental health awareness
+- **[Burnout Prevention Guide](https://levelup.gitconnected.com/what-every-developer-needs-to-know-about-burnout-before-its-too-late-f582aa374d5e)** - Comprehensive burnout prevention
+
+### Career Growth
+
+- **[Personal Branding for Developers](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po)** - Building your professional presence
+- **[Tech Lead Resources](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead)** - Leadership development
+- **[Remote Job Guide](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs)** - Finding remote opportunities
+- **[Starting a Company](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company)** - Entrepreneurship resources
+
+---
+
+## 📚 Learning Resources
+
+### Books & Reading
+
+- **[Learn Anything Books](https://github.com/learn-anything/books)** - Curated book recommendations
+- **[Free Programming Books](https://github.com/EbookFoundation/free-programming-books)** - Free technical books
+- **[CS Books Collection](https://github.com/AB1908/CS-Books)** - Computer science textbooks
+- **[10 Must-Read Books for Coders](https://www.java67.com/2018/10-must-read-books-for-coders-of-all-level.html)** - Essential reading list
+
+### Video Courses & YouTube
+
+- **[Awesome YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers)** - Curated educational channels
+- **[CS Video Courses](https://github.com/Developer-Y/cs-video-courses)** - Computer science video content
+- **[Education Ecosystem](https://educationecosystem.com/projects)** - Project-based learning
+
+### Blogs & News
+
+- **[Hacker News](https://news.ycombinator.com/)** - Technology news and discussions
+- **[GitHub Explore](https://github.com/explore)** - Discover trending repositories
+- **[Stack Overflow](https://stackoverflow.com/)** - Q&A community
+- **[Medium](https://medium.com/)** - Technical articles and tutorials
+- **[Reddit Software Engineering](https://www.reddit.com/search/?q=software%20engineer&type=link)** - Community discussions
+- **[Dev.to](https://dev.to/)** - Developer community platform
+- **[Hashnode](https://hashnode.com/)** - Developer blogging platform
+
+### Practice & Projects
+
+- **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** - Project-based learning
+- **[Microsoft Samples](https://learn.microsoft.com/en-us/samples/browse/)** - Official code examples
+
+---
+
+## 🎓 Master Advice
+
+### Learning from Experience
+
+- **[How I Would Learn to Code If I Could Start Over](https://www.piratekingdom.com/blog/how-i-would-learn-to-code-if-i-could-start-over)** - Retrospective learning path
+- **[20 Years of Programming Advice](https://medium.com/dev-publicity/advice-to-my-younger-self-and-you-after-20-years-in-programming-a3a2ccc7a942)** - Wisdom from experience
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to make this resource even better! Here's how you can help:
+
+1. **Add Resources**: Submit high-quality links that aren't already included
+2. **Improve Organization**: Suggest better categorization or structure
+3. **Update Content**: Replace outdated links with current alternatives
+4. **Fix Issues**: Report broken links or inaccurate information
+
+### Contribution Guidelines
+
+- Ensure all links are high-quality and provide real value
+- Follow the existing structure and formatting
+- Test links before submitting to ensure they work
+- Provide context for why a resource is valuable
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+**Happy Learning! 🚀**
+
+_Remember: The best investment you can make is in yourself and your knowledge._
