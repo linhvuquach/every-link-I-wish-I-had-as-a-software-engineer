@@ -164,10 +164,11 @@ We welcome contributions! Feel free to:
 - **[Burnout Prevention Guide](https://levelup.gitconnected.com/what-every-developer-needs-to-know-about-burnout-before-its-too-late-f582aa374d5e)** - Comprehensive burnout prevention
 
 ### Career Growth
-
 - **[Personal Branding for Developers](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po)** - Building your professional presence
 - **[Tech Lead Resources](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead)** - Leadership development
-- **[Remote Job Guide](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs)** - Finding remote opportunities
+- Finding remote opportunities:
+  - [Remote Job Guide](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#remote-jobs)
+  - [A list of semi to fully remote-friendly companies in or around tech](https://github.com/remoteintech/remote-jobs)
 - **[Starting a Company](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company)** - Entrepreneurship resources
 
 ---
