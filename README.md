@@ -162,6 +162,7 @@ We welcome contributions! Feel free to:
 - **[Forming Opinions in Engineering](https://newsletter.eng-leadership.com/p/the-importance-of-forming-opinions)** - Critical thinking in tech
 - **[Avoiding Developer Burnout](https://medium.com/@vietjs/how-to-avoid-burnout-as-a-software-developer-c929a550a0b7)** - Mental health awareness
 - **[Burnout Prevention Guide](https://levelup.gitconnected.com/what-every-developer-needs-to-know-about-burnout-before-its-too-late-f582aa374d5e)** - Comprehensive burnout prevention
+- [How to become a "T-shaped" software engineer - Google Developer](https://www.youtube.com/watch?v=IMHneaMO-dg&list=WL&index=5)
 
 ### Career Growth
 - **[Personal Branding for Developers](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po)** - Building your professional presence
