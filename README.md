@@ -55,6 +55,10 @@ We welcome contributions! Feel free to:
 - [Soft Skills & Leadership](#soft-skills--leadership)
 - [Career Growth](#career-growth)
 
+### 💪 Soft Skills
+
+- [How to set goals](#how-to-set-goals-and-achieve-them)
+
 ### 📚 Learning Resources
 
 - [Books & Reading](#books--reading)
@@ -171,6 +175,12 @@ We welcome contributions! Feel free to:
 - **[Starting a Company](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Start-a-company)** - Entrepreneurship resources
 
 ---
+
+## 💪 Soft Skills
+
+## How to set goals and achieve them
+
+- [How to Set Goals for 2026 That Actually Stick](https://hackernoon.com/how-to-set-goals-for-2026-that-actually-stick)
 
 ## 📚 Learning Resources
 
