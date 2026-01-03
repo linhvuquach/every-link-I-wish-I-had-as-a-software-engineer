@@ -55,9 +55,9 @@ We welcome contributions! Feel free to:
 - [Soft Skills & Leadership](#soft-skills--leadership)
 - [Career Growth](#career-growth)
 
-### 💪 Soft Skills
+### 💼 Remote Jobs
 
-- [How to set goals](#how-to-set-goals-and-achieve-them)
+- [Curated map of platforms actually built for remote hiring](#curated-map-of-platforms-actually-built-for-remote-hiring)
 
 ### 📚 Learning Resources
 
@@ -167,8 +167,10 @@ We welcome contributions! Feel free to:
 - **[Avoiding Developer Burnout](https://medium.com/@vietjs/how-to-avoid-burnout-as-a-software-developer-c929a550a0b7)** - Mental health awareness
 - **[Burnout Prevention Guide](https://levelup.gitconnected.com/what-every-developer-needs-to-know-about-burnout-before-its-too-late-f582aa374d5e)** - Comprehensive burnout prevention
 - [How to become a "T-shaped" software engineer - Google Developer](https://www.youtube.com/watch?v=IMHneaMO-dg&list=WL&index=5)
+- [How to Set Goals for 2026 That Actually Stick](https://hackernoon.com/how-to-set-goals-for-2026-that-actually-stick)
 
 ### Career Growth
+
 - **[Personal Branding for Developers](https://dev.to/buildwebcrumbs/creating-a-personal-brand-how-to-sell-yourself-as-a-developer-52po)** - Building your professional presence
 - **[Tech Lead Resources](https://github.com/kealanparr/Every-link-I-wish-I-had-as-a-beginner#Be-a-tech-lead)** - Leadership development
 - Finding remote opportunities:
@@ -178,11 +180,34 @@ We welcome contributions! Feel free to:
 
 ---
 
-## 💪 Soft Skills
+## 💼 Remote Jobs
 
-## How to set goals and achieve them
+### Curated map of platforms actually built for remote hiring
 
-- [How to Set Goals for 2026 That Actually Stick](https://hackernoon.com/how-to-set-goals-for-2026-that-actually-stick)
+- **[Remote.co](https://remote.co)**
+- **[NoDesk](https://nodesk.co)**
+- **[RemoteHabits](https://remotehabits.com)**
+- **[Remotive](https://remotive.com)**
+- **[Remote4Me](https://remote4me.com)**
+- **[Pangian](https://pangian.com)**
+- **[Remotees](https://remotees.com)**
+- **[JustRemote](https://justremote.co)**
+- **[RemoteCrew](https://remotecrew.io)**
+- **[Europe Remotely](https://europeremotely.com)**
+- **[Remote OK Europe](https://remoteok.io/europe)**
+- **[Remote of Asia](https://remoteok.io/asia)**
+- **[FlexJobs](https://flexjobs.com)**
+- **[We Work Remotely](https://weworkremotely.com)**
+- **[Remote OK](https://remoteok.com)**
+- **[AngelList](https://angel.co)**
+- **[LinkedIn](https://linkedin.com)**
+- **[Upwork](https://upwork.com)**
+- **[Freelancer](https://freelancer.com)**
+- **[Working Nomads](https://workingnomads.com)**
+- **[SimplyHired](https://simplyhired.com)**
+- **[Jobspresso](https://jobspresso.co)**
+- **[Virtual Vocations](https://virtualvocations.com)**
+- **[Outsourcely](https://outsourcely.com)**
 
 ## 📚 Learning Resources
 
