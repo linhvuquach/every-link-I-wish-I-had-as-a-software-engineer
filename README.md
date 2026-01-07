@@ -48,6 +48,10 @@ We welcome contributions! Feel free to:
 - [Security](#security)
 - [DevOps & Infrastructure](#devops--infrastructure)
 
+### 🤖 AI/ML
+
+- [Agentic AI](#agentic-ai)
+
 ### 🎯 Career Development
 
 - [Interview Preparation](#interview-preparation)
@@ -133,6 +137,14 @@ We welcome contributions! Feel free to:
 - **[From "Vibe Coding" to Professional](https://phucnt.substack.com/p/ai-coding-tu-vibe-coding-en-chuyen)** - Professional development practices
 - **[Effective Coding Agent Usage](https://phucnt.substack.com/p/su-dung-coding-agent-hieu-qua-voi)** - AI-assisted development
 - **[Requirement Writing Optimization](https://phucnt.substack.com/p/toi-uu-viec-viet-requirement-voi)** - Better requirement documentation
+
+---
+
+## 🤖 AI/ML
+
+### Agentic AI
+
+- **[Agentic AI in .NET](https://medium.com/write-a-catalyst/agentic-ai-in-net-a-simple-guide-for-developers-who-want-to-start-today-343d942eb015)** - A Simple Guide for Developers Who Want to Start Today
 
 ---
 
