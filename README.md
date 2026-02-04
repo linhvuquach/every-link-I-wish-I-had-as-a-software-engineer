@@ -127,6 +127,7 @@ We welcome contributions! Feel free to:
 ### System Design
 
 - **[ByteByteGo System Design](https://blog.bytebytego.com/)** - System design concepts and patterns
+- [Himanshu Singour. (2025, August 7). How I Learned System Design. Medium](https://medium.com/@himanshusingour7/how-i-learned-system-design-d7444d454367)
 
 ### Performance & Optimization
 
